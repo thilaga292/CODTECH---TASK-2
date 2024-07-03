@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" /	>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WEATHER FORECASTE</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+    <link  rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" 
+    />
+    <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <div class="weather-input">
+            <div class="input-group">
+                <input  type="text" 
+                id="userLocation" 
+                placeholder="Search for places..."  />
+
+                <select class="converter" id="converter">
+                    <option>°C</option>
+                    <option>°F</option>
+                </select>
+
+                <i class="fa fa-search" onclick="findUserLocation()"></i>
+            </div>
+
+            <div class="separator"></div>
+
+            <button class="ref-btn" onclick="RefreshPage()">Refresh</button>
+
+            <div class="weatherIcon"></div>
+            <h2 class="temperature"></h2>
+            <div class="feelsLike"></div>
+            <div class="description"></div>
+            <hr />
+            <div id="date"></div>
+            <div class="city"></div> 
+        </div>
+
+        <div class="weather-output">
+            <h1 class="heading">Weather Highlights</h1>
+            <div class="Highlights">
+                <div class="humidity">
+                    Humidity
+                    <i class="fa-solid fa-water"></i>
+                    <h1 id="HValue"></h1>
+                </div>
+                <div class="wind-speed">
+                    Wind-speed
+                    <i class="fa-solid fa-wind"></i>
+                    <h1 id="WValue"></h1>
+                </div>
+                <div class="lat">
+                    Latitude
+                    <i class="fa-solid fa-globe"></i>
+                    <h1 id="LAValue"></h1>
+                </div>
+                <div class="lon">
+                    Longitude
+                    <i class="fa-solid fa-location-crosshairs"></i>
+                    <h1 id="LOValue"></h1>
+                </div>
+                <div class="clouds">
+                    Clouds
+                    <i class="fa-solid fa-cloud"></i>
+                    <h1 id="CValue"></h1>
+                </div>
+                <div class="pressure">
+                    Pressure
+                    <i class="fa-solid fa-volcano"></i>
+                    <h1 id="PValue"></h1>
+                </div>
+
+                <div class="max">
+                    Max Temperature
+                    <i class="fa-solid fa-temperature-arrow-up"></i>
+                    <h1 id="MAXValue"></h1>
+                </div> 
+                
+                <div class="min">
+                    Min Temperature
+                    <i class="fa-solid fa-temperature-arrow-down"></i>  
+                    <h1 id="MINValue"></h1>
+                </div>
+
+                <div class="ground">
+                    Ground-Level
+                    <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+                    <h1 id="GValue"></h1>
+                </div>
+
+                <div class="sea">
+                    Sea-Level
+                    <i class="fa-solid fa-arrow-trend-up"></i>
+                    <h1 id="SEValue"></h1>
+                </div>
+
+            </div>
+            <br />
+        </div>
+    </div>
+   </body>
+</html>
