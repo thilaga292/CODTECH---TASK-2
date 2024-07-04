@@ -82,7 +82,6 @@ The objective of this project is to create, design and implement an efficient an
 
 ### Limitations
 
-- Reliability: The accuracy of weather information heavily depends on the reliability of the data source. 
 - Dependency on External API’s: Downtime or changes to the external service can affect the functionality of the application.
 - Device and Network Dependency: The user experience can be affected by the device’s capabilities and network conditions.
 - Security and Privacy Concerns: Handling user data, such as location information, requires attention to privacy and security. Ensuring secure data transmission and storage is crucial to protect user information.
