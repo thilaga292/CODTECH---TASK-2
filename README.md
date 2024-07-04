@@ -49,7 +49,7 @@ The objective of this project is to create, design and implement an efficient an
 - Language: Html , Css , Javascript.
 - API: Openweathermap API.
 
-### Technology used
+### Technologies used
 
 *Frontend*
 
