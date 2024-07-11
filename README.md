@@ -1,35 +1,11 @@
-**Name**: THILAGAVATHY G
+**THILAGAVATHY G** 
 
-**Company**: CODTECH IT SOLUTIONS
+**Bharath Institute of Higher Education and Research**
 
-**ID**: CT04WD2251
-
-**Domain**: Web Development
-
-**Duration**: June to July 15
-
-**Mentor**: SRAVANI GOUNI
 
 ## OVERVIEW OF THE PROJECT:
 
-### Project: Weather Forecast Application.
-
-*light-theme:*
-
-![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/176a9db3-a29b-4c9a-b93b-7c0cff7bc908)
-
-![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/f3717f8c-874a-4cb5-a625-fe3a23ac4539)
-
-
-*Dark-theme:*
-
-![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/9a39e84c-22ef-446d-bbbd-04d523386e38)
-
-*Temperature in fahrenheit:*
-
-![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/7870c682-4bda-4c4c-93cd-c6986b37dbed)
-
-
+### Project: *Weather Forecast Application.*
 
 
 ### Objective
@@ -89,3 +65,27 @@ The objective of this project is to create, design and implement an efficient an
 ### Conclusion
 
 In the current era, research in weather measurement, monitoring and forecasting are become more and more relevant. This project demonstrates the design and implementation of an affordable mini weather forecast web application that ensures flexibility, portability, scability and user friendly operations which can provide data of some weather variables including temperature, humidity and pressure. 
+
+
+
+
+### output
+
+
+*light-theme:*
+
+![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/176a9db3-a29b-4c9a-b93b-7c0cff7bc908)
+
+![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/f3717f8c-874a-4cb5-a625-fe3a23ac4539)
+
+
+*Dark-theme:*
+
+![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/9a39e84c-22ef-446d-bbbd-04d523386e38)
+
+*Temperature in fahrenheit:*
+
+![image](https://github.com/thilaga292/CODTECH---TASK-2/assets/174592254/7870c682-4bda-4c4c-93cd-c6986b37dbed)
+
+
+
