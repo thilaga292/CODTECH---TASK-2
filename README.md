@@ -2,6 +2,8 @@
 
 **Bharath Institute of Higher Education and Research**
 
+**CodTech IT Solutions Internship Project.**
+
 
 ## OVERVIEW OF THE PROJECT:
 
@@ -27,14 +29,10 @@ The objective of this project is to create, design and implement an efficient an
 
 ### Technologies used
 
-*Frontend*
-
 - HTML - This is a fundamental technology used to design the structure and layout of the web page. It organize, format, and display a web page’s content along with CSS and Javascript
 - CSS - CSS is used to style existing HTML elements by adding designs and responsiveness to web pages. It controls various aspects of a website’s appearance, including text style, size, positioning, color, and more.
-  
-*Backend*
-
 - JavaScript - JavaScript is a single-threaded, synchronous programming and scripting language widely used in web development. It is used to add interactive behavior to web pages and enables dynamic interactivity on websites when it is applied to an HTML document.
+
 
 ### Approach
 - Use HTML to give structure to your project.
